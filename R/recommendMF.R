@@ -1,6 +1,6 @@
 recommendMF <- function(model, topN = 3, pt){
   
-  UseMethod("recommendMF", model)
+  UseMethod("UBclass", model)
   
 }
 
